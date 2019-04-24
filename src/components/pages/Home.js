@@ -27,7 +27,7 @@ class Home extends Component {
   <Card bg="success" text="white" >
 
 
-    <Card.Header>FOREWORD</Card.Header>
+    <Card.Header>WELCOME</Card.Header>
     <Card.Body>
       <Card.Title>GUIDELINES AND STANDARDS
 FOR INTEGRATED HEALT FACILITY ELECTRONIC MANAGEMENT SYSTEM</Card.Title>
